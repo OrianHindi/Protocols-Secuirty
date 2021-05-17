@@ -47,9 +47,6 @@ int main (int argc, char **argv) {
 			char *param = argv[i++];
 			//get target ip address. default is ::1
 			t_ip = param;
-        }else if(!strcmp(arg,"-r")){		
-	        //change to udp flood.
-	        udp = 1;			
         }else if(!strcmp(arg,"-p")){
 			if(i >= argc)
 				error();
