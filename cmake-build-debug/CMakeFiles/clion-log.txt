@@ -1,0 +1,4 @@
+/opt/clion-2020.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/orian/CLionProjects/Protocols-Security
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/orian/CLionProjects/Protocols-Security/cmake-build-debug

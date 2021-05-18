@@ -1,0 +1,3 @@
+/home/orian/CLionProjects/Protocols-Security/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/orian/CLionProjects/Protocols-Security/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/orian/CLionProjects/Protocols-Security/cmake-build-debug/CMakeFiles/Protocols_Security.dir

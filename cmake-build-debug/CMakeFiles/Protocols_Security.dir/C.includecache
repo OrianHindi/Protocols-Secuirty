@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/orian/CLionProjects/Protocols-Security/main.c
+stdio.h
+-
+arpa/inet.h
+-
+stdlib.h
+-
+sys/socket.h
+-
+linux/ip.h
+-
+linux/tcp.h
+-
+linux/udp.h
+-
+zconf.h
+-
+netdb.h
+-
+string.h
+-
+
